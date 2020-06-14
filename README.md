@@ -20,7 +20,7 @@ We will be making use of codes to craft an application to reduce response time w
 
 ## The Architecture
 
-![Solution Architecture](solArch.png)
+![Solution Architecture](image/solArch.png)
 
 2 Situations it will mainly be used:
 
