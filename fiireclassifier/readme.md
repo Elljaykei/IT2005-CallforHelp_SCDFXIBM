@@ -9,7 +9,7 @@
 -next, add a package
 ![python interpreter](projectinterpreteradd.png)
 -install ibm-watson package
-![IBM package](ibm-watson packages.PNG)
+![IBM package](watsonpackages.PNG)
 -install should be successful
 ![successful](shouldsayinstallsuccessfuly.PNG)
 -once done, you can go to the fireclassifier.py and change to the image you would like to analyse.
