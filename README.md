@@ -54,7 +54,7 @@ We will be making use of IBM Watson to craft an application to reduce response t
 
 ## Built with
 
-[IBM Watson](https://www.ibm.com/sg-en/cloud/watson-visual-recognition) - Visual Recognition for facial recognition and fire severity
+[IBM Watson](https://www.ibm.com/sg-en/cloud/watson-visual-recognition) - Visual Recognition for facial recognition(medical) and fire severity
 
 [Python Code](https://www.python.org/) - For check of abnormal heart rates
 
