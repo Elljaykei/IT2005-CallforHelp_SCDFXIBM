@@ -14,6 +14,8 @@
 
 -Copy and paste it into the same folder.
 
+### How to use code
+
 -Run "Call For Code".
 
 -There should be a prompt for input of presence of medical conditions.
@@ -40,3 +42,4 @@
 
 ![problem2](image/problem2.png)
 
+There are some other conditions which will apply if you put "N" for the first option.
