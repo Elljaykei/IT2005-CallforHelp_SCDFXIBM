@@ -42,3 +42,9 @@ We will be making use of IBM Watson to craft an application to reduce response t
 
 ## Long Description
 <a href="https://docs.google.com/document/d/1nvfI0ENHBwIohhQT6EjDXGNtcbFp9wNmVMIBolRpPyw/edit" target="_blank">More details is available here</a>
+
+## Getting Started
+
+### IBM Watson
+
+[How it works](fire classifier/readme.md)
