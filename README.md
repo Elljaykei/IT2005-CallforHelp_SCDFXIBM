@@ -16,7 +16,7 @@ We will be making use of IBM Watson to craft an application to reduce response t
 
 ## Pitch Proposal
 
-![pitch proposal](https://yt-embed.herokuapp.com/embed?v=rXdD7yz7tNM)
+![our pitch proposal](https://youtu.be/rXdD7yz7tNM)
 
 ## The Architecture
 
