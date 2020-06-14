@@ -7,7 +7,7 @@
 -after that, find python interpreter
 ![python interpreter](projectinterpreter.PNG)
 -next, add a package
-![python interpreter](projectinterpreteradd.PNG)
+![python interpreter](projectinterpreteradd.png)
 -install ibm-watson package
 ![IBM package](ibm-watson packages.PNG)
 -install should be successful
