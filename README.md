@@ -12,7 +12,7 @@ With the advancement of technology especially in the AI and machine learning fie
 
 ### The Idea
 
-We will be making use of IBM Watson to craft an application to reduce response time when it comes to emergency situations by alerting CFRs and professionals.
+We will be making use of IBM Watson to craft an application to reduce response time when it comes to emergency situations by alerting CFRs and professionals. And better prepare reponders with the right resources for the appropriate situation.
 
 ## Pitch Proposal
 
