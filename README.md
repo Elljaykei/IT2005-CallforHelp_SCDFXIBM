@@ -16,7 +16,7 @@ We will be making use of IBM Watson to craft an application to reduce response t
 
 ## Pitch Proposal
 
-[Pitch Proposal](https://www.youtube.com/watch?v=rXdD7yz7tNM&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXdD7yz7tNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Architecture
 
