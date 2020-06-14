@@ -48,3 +48,7 @@ We will be making use of IBM Watson to craft an application to reduce response t
 ### IBM Watson
 
 [How it works](fireclassifier/readme.md)
+
+### Python 
+
+[How it works](heartrate/readme.md)
