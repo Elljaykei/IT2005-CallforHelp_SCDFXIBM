@@ -9,35 +9,35 @@
 
 -after that, find python interpreter
 
-![python interpreter](projectinterpreter.PNG)
+![python interpreter](./fireclassfierMD/projectinterpreter.PNG)
 
 -next, add a package
 
-![python interpreter](projectinterpreteradd.png)
+![python interpreter](./fireclassfierMD/projectinterpreteradd.png)
 
 -install ibm watson package
 
-![IBM package](watsonpackages.PNG)
+![IBM package](./fireclassfierMD/watsonpackages.PNG)
 
 -install should be successful
 
-![successful](shouldsayinstallsuccessfuly.PNG)
+![successful](./fireclassfierMD/shouldsayinstallsuccessfuly.PNG)
 
 #Running Classification model
 ### our classification model has been trained from 1000 images dataset of fires and nonfire pictures
 
 -once done, you can go to the fireclassifier.py and change to the image you would like to analyse.
 
-![analysing](inked.jpg)
+![analysing](./fireclassfierMD/inked.jpg)
 
 -output for a non-fire image should be classified as nonfire.
 
-![nonfire](output.PNG)
+![nonfire](./fireclassfierMD/output.PNG)
 
 -changing to fire image
 
-![analysingfire](classifyingFire.PNG)
+![analysingfire](./fireclassfierMD/classifyingFire.PNG)
 
 -output for fire image
 
-![fire output](fire1output.PNG)
+![fire output](./fireclassfierMD/fire1output.PNG)
