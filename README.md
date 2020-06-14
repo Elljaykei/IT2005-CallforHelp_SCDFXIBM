@@ -51,3 +51,9 @@ We will be making use of IBM Watson to craft an application to reduce response t
 ### Python 
 
 [How it works](heartrate/readme.md)
+
+## Built with
+
+[IBM Watson](https://www.ibm.com/sg-en/cloud/watson-visual-recognition) - Visual Recognition
+
+
