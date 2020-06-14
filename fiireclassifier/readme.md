@@ -5,7 +5,7 @@
 
 -once project folder, open file settings
 
-![file settings](filesetting.png)
+![file settings](filesetting.PNG)
 
 -after that, find python interpreter
 
@@ -26,5 +26,15 @@
 -once done, you can go to the fireclassifier.py and change to the image you would like to analyse.
 
 ![analysing](inked.jpg)
+
 -output for a non-fire image should be classified as nonfire.
+
 ![nonfire](output.PNG)
+
+-changing to fire image
+
+![analysingfire](classifyingFire.PNG)
+
+-output for fire image
+
+![fire output](fire1output.PNG)
