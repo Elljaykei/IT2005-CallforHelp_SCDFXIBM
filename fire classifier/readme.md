@@ -5,7 +5,7 @@
 
 -once done, open project folder, open file settings
 
-![file settings](filesetting.PNG)
+![file settings](../fireclassfire/filesetting.PNG)
 
 -after that, find python interpreter
 
