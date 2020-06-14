@@ -3,7 +3,7 @@
 -For our environment we will be using PyCharm
 -Download all the files in this folder, including the fireclassifier.py
 -once project folder, open file settings
-![file settings](filesetting.png)
+![file settings](filesetting.PNG)
 -after that, find python interpreter
 ![python interpreter](projectinterpreter.PNG)
 -next, add a package
