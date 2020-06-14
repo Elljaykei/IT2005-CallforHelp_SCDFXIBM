@@ -41,4 +41,4 @@ We will be making use of IBM Watson to craft an application to reduce response t
     6. If data is a picture or video of a fire the fire will categorized by severity and depending on severity will give instructions to user where possible.
 
 ## Long Description
-[More details are available here](https://docs.google.com/document/d/1nvfI0ENHBwIohhQT6EjDXGNtcbFp9wNmVMIBolRpPyw/edit)
+<a href="https://docs.google.com/document/d/1nvfI0ENHBwIohhQT6EjDXGNtcbFp9wNmVMIBolRpPyw/edit" target="_blank">More details is available here</a>
