@@ -11,7 +11,7 @@ visual_recognition = VisualRecognitionV3(
 
 visual_recognition.set_service_url('https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/5382a26a-8ae1-4d2d-88f5-4e46020ad3f0')
 
-with open('./download.jpg', 'rb') as images_file:
+with open('./nonefire1.jpg', 'rb') as images_file:
     classes = visual_recognition.classify(
         images_file=images_file,
         threshold='0.6',
